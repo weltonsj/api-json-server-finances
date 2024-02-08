@@ -1,9 +1,22 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "finances": [
+    {
+      "name": "Freela",
+      "value": "1750",
+      "situation": "entrada",
+      "id": 1
+    },
+    {
+      "name": "DayTrade",
+      "value": "1250",
+      "situation": "entrada",
+      "id": 2
+    },
+    {
+      "name": "Combustível ",
+      "value": "-250",
+      "situation": "saida",
+      "id": 3
+    }
+  ]
 }
