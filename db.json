@@ -1,22 +1,28 @@
 {
-  "finances": [
+  "transactions": [
     {
       "name": "Freela",
-      "value": "1750",
+      "value": 1250,
       "situation": "entrada",
       "id": 1
     },
     {
       "name": "DayTrade",
-      "value": "1250",
+      "value": 1500,
       "situation": "entrada",
       "id": 2
     },
     {
-      "name": "Combustível ",
-      "value": "-250",
+      "name": "Combustível",
+      "value": -150,
       "situation": "saida",
       "id": 3
+    },
+    {
+      "name": "Welton",
+      "value": -45,
+      "situation": "saida",
+      "id": 4
     }
   ]
 }
