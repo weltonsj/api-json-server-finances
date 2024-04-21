@@ -17,6 +17,12 @@
       "value": -150,
       "situation": "saida",
       "id": 3
+    },
+    {
+      "name": "Supermercado",
+      "value": -850,
+      "situation": "saida",
+      "id": 4
     }
   ]
 }
